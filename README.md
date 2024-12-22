@@ -10,4 +10,4 @@ This repository contains a PostgreSQL database for storing information about gal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rukyese/celestial-bodies-database.git
+   git clone https://github.com/rukyese/celestial-bodies-database-fcc.git
